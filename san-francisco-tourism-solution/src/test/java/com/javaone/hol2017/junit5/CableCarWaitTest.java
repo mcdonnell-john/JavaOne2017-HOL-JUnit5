@@ -9,7 +9,7 @@ import org.junit.jupiter.api.*;
 import org.junit.jupiter.api.extension.*;
 import org.mockito.*;
 
-import name.falgout.jeffrey.testing.junit5.*;
+import name.falgout.jeffrey.testing.junit.mockito.*;
 
 @ExtendWith(MockitoExtension.class)
 public class CableCarWaitTest {
